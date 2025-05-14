@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/takanorisuzuki-nutanix-mcp-server-jp-badge.png)](https://mseep.ai/app/takanorisuzuki-nutanix-mcp-server-jp)
+
 # nutanix-mcp-server
 > Nutanix Prism Central と連携してクラスタ・仮想マシン情報を取得する MCP (Model Context Protocol) サーバーの FastAPI 実装
 
